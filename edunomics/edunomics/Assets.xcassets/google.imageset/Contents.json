@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "google-google-g-white-png-clipart-1525702-pinclipart-google-logo-white-png-880_745.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
